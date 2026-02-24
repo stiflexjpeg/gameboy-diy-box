@@ -6,7 +6,7 @@ Printable A4 box templates for various Game Boy games.
 
 - Format: A4
 - Scale: 100%
-- Paper: 250–300gsm recommended
+- Paper: Glossy 135gsm recommended
 
 ## ✂️ Assembly
 
