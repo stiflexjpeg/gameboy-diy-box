@@ -2,28 +2,30 @@
 
 Printable A4 box templates for various Game Boy games.
 
-## 🖨 Printing settings
+## Printing settings
 
 - Format: A4
 - Scale: 100%
 - Paper: Glossy 135gsm recommended
 
-## ✂️ Assembly
+## Assembly
 
-## 📏 Box dimensions
+## Box dimensions
 
 The box size is identical for all games.
 
 Download the dimension sheet here:
 `/dimensions/gameboy-box-dimensions-A4.pdf`
 
-## 📥 Individual Games
+## Games
 
-All printable A4 templates are in the `/games` folder.
+All printable A4 templates are in the like
+https://drive.google.com/drive/folders/1oKqj_ypJ3WMfXjulHkdm-mG59sefJ_oA?usp=sharing
 
-## 📦 Packs
+## Master
 
-Generation packs and complete collection are available in `/packs`.
+If you want to help me to make this project worldwide you can find my master psd files here 
+https://drive.google.com/drive/folders/1AIrvv7YC-iYbBiaD8ZfcX8-XN2l9knYe?usp=sharing
 
 ## ⚠ Disclaimer
 
