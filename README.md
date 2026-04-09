@@ -1,4 +1,4 @@
-# 🎮 DIY Game Boy Box Collection
+# DIY Gameboy Box Collection
 
 Printable A4 box templates for various Game Boy games.
 
@@ -6,7 +6,8 @@ Printable A4 box templates for various Game Boy games.
 
 - Format: A4
 - Scale: 100%
-- Paper: Glossy 135gsm recommended
+- Paper: Glossy 135gsm recommended for the cover of the games
+- Paper: standard 80gsm for the dimension paper
 
 ## Assembly
 
