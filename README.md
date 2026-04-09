@@ -9,20 +9,22 @@ Printable A4 box templates for various Game Boy games.
 - Paper: Glossy 135gsm recommended for the cover of the games
 - Paper: standard 80gsm for the dimension paper
 
-🧰 Tools
-Cutter
-Metal ruler
-6 mm hole punch
-Bone folder
-Scissors
+## 🧰 Tools
 
-📦 Consumables
-6 mm magnets (1 mm thickness)
-6 mm magnets (2 or 3 mm thickness)
-Gel glue
-Glue stick
-Masking tape
-Microfiber cloth (for glasses)
+- Cutter  
+- Metal ruler  
+- 6 mm hole punch  
+- Bone folder  
+- Scissors  
+
+## 📦 Consumables
+
+- 6 mm magnets (1 mm thickness)  
+- 6 mm magnets (2–3 mm thickness)  
+- Gel glue  
+- Glue stick  
+- Masking tape  
+- Microfiber cloth (for glasses)  
 
 ## Box dimensions
 
